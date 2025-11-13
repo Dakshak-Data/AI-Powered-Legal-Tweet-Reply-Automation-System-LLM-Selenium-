@@ -37,3 +37,8 @@ Works using your real Chrome profile
 Load → LLM Reply → Auto-Post → Save replies JSON
 
 Saves AI replies into a new file twitter_replies.json
+
+
+
+-----------------------------------------
+LM_API_KEY="fxvdsvstthbfvberdfvdfvedvdvdcxvd add you key" make ur .env file
